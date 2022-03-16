@@ -3,7 +3,7 @@
 # console.log("Hi There! 👋")
 
 - 🔭 I’m currently developing some APIs in Python and NodeJS
-- 🌱 I’m currently learning Svelte with Firebase
+- 🌱 I’m currently learning typescript with AWS Serverless Framework
 - 📫 How to reach me: Please, send me an email to maturod96@gmail.com
 
 ## My projects:
