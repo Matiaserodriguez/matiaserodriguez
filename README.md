@@ -1,9 +1,9 @@
 ### Thank you for comming!
 
-# console.log("Hi There! 👋")
+# print("Hi There! 👋")
 
-- 🔭 I’m currently developing some APIs in Python and NodeJS
-- 🌱 I’m currently learning typescript with AWS Serverless Framework
+- 🔭 I’m currently developing APIs in Python+Flask
+- 🌱 I’m continue learning IaC, Infrastructure as Code
 - 📫 How to reach me: Please, send me an email to maturod96@gmail.com
 
 ## My projects:
